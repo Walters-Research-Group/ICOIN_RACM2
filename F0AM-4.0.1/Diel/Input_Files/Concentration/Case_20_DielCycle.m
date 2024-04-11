@@ -36,7 +36,7 @@ Met = {...
     'RH'         40; %Relative Humidity, %
     'SZA'        sun.zenith; %solar zenith angle, degrees
     'kdil'       1/(24*60*60); %dilution constant, /s
-    'jcorr'      0.5; %optimizes comparison b/w model and observed NO/NO2
+    'jcorr'      0.5;
     };
 
 %% CHEMICAL CONCENTRATIONS
@@ -167,6 +167,6 @@ NO2rates = PlotRates('NO2',S,5,'unit','ppb_h','sumEq',1)
 HNO3rates = PlotRates('HNO3',S,50,'unit','ppb_h','sumEq',1)
 ONITrates = PlotRates('ONIT',S,50,'unit','ppb_h','sumEq',1)
 HONOrates = PlotRates('HONO',S,50,'unit','ppb_h','sumEq',1)
-
+HO2rates = PlotRates('HO2',S,50,'unit','ppb_h','sumEq',1)
 
 

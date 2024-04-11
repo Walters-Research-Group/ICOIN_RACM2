@@ -1,0 +1,2 @@
+# ICOIN_RACM2
+ This directory contains the input files for the Diel Simulations of D17O of NOy and Ox when not inlcuding the potential role of oxygen isotope exchange between HO2 and O2 in "Incorporating Oxygen Isotopes of Oxidized Reactive Nitrogen in the Regional Atmospheric Chemistry Mechanism, Version 2 (ICOIN-RACM2)".  The model simualtion results from these input files were utilized in Figure 5 of Walters et al., 2024.

@@ -1,0 +1,2 @@
+# ICOIN_RACM2
+ This directory contains the input files for the Chamber Simulations of D17O values of NOy and Ox when not include the oxygen isotope exchange between O2 and HO2 conducted in "Incorporating Oxygen Isotopes of Oxidized Reactive Nitrogen in the Regional Atmospheric Chemistry Mechanism, Version 2 (ICOIN-RACM2)".  The model simualtion results from these input files were utilized in Figures 5A of Walters et al., 2024.
